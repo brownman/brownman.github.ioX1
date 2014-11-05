@@ -16,3 +16,6 @@ My projects list:
 - workflow: travis is pull code upon a github push request, and publish the result to the gh-pages branch OR youtube.
 
 
+[ofer asks](https://github.com/brownman/ofer_asks)
+-----
+- goal: teach others - what I have to learn myself 
