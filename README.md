@@ -11,5 +11,8 @@ My projects list:
 
 - [travis_screencast](https://github.com/brownman/travis_screencast)
 --------
-- CI server does desktop recording + deploying 
+### use CI server for:
+- record your desktop (capture video of X11-session)
+- publish to youtube 
+- deploy to github
 
