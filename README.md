@@ -10,7 +10,7 @@ My projects:
 
 [travis_screencast](https://github.com/brownman/travis_screencast)
 -------
-** GOAL: ** use a C.I server - to capture a video of a running application
+**GOAL:** use a C.I server - to capture a video of a running application
 
 
 [ofer asks](https://github.com/brownman/ofer_asks)
