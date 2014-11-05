@@ -16,4 +16,4 @@ My projects:
 
 [ofer asks](https://github.com/brownman/ofer_asks)
 -----
-**GOAL:** teach others - what I want to learn myself
+**GOAL:** teach others - knowledge I want to rule myself
