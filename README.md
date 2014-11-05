@@ -1,8 +1,6 @@
-brownman.github.io
+My projects:
 ==================
-
-My projects list:
-----
+ 
 
 - [meteor-chat-tts](https://github.com/brownman/meteor-chat-tts) 
 -----
