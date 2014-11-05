@@ -4,8 +4,8 @@ My projects:
 
 [meteor-chat-tts](https://github.com/brownman/meteor-chat-tts) 
 -----
-**GOAL:** create a web-chat which speak-out-loud the incoming messages
-**TECHNOLOGY:** meteor.js , mongoDB , node.js
+- **GOAL:** create a web-chat which speak-out-loud the incoming messages
+- **TECHNOLOGY:** meteor.js , mongoDB , node.js
  
 
 [travis_screencast](https://github.com/brownman/travis_screencast)
