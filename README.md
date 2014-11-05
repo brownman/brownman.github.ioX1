@@ -6,7 +6,7 @@ My projects list:
 
 - [meteor-chat-tts](https://github.com/brownman/meteor-chat-tts) 
 -----
-- goal: create a web-chat which speak out the incoming messages
+- goal: create a web-chat which speak-out-loud the incoming messages
 - technology: meteor.js , mongoDB , node.js
  
 
