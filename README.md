@@ -11,9 +11,10 @@
 **GOAL:** use a C.I server - to capture a video of a running application
 
 
-[ofer asks](https://github.com/brownman/ofer_asks)
+[ofer_asks](https://github.com/brownman/ofer_asks)
 -----
 **GOAL:** teach others - knowledge I want to rule myself
+
 
 [Avshalom's website](http://drupal-ex01.rhcloud.com/)
 ---
