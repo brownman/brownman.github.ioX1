@@ -1,3 +1,5 @@
+[c.v - pdf version ](https://github.com/brownman/cv_pdf/tree/master)
+
 
 [meteor-chat-tts](https://github.com/brownman/meteor-chat-tts) 
 -----
