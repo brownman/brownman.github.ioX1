@@ -1,4 +1,4 @@
-[ c.v - updated ](https://github.com/brownman/cv_pdf/tree/master)
+[ my C.V ](https://github.com/brownman/cv_pdf/tree/master)
 =====
 
 
